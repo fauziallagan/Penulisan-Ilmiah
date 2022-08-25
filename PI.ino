@@ -8,7 +8,7 @@
 // See the Device Info tab, or Template settings
 #define BLYNK_TEMPLATE_ID "TMPLgE8D0EEK"
 #define BLYNK_DEVICE_NAME "Penulisan ilmiah"
-#define BLYNK_AUTH_TOKEN "TIfFaYyYHLj5aR3N82H8PX6RvIpi7rvM"
+#define BLYNK_AUTH_TOKEN "YOUR_TOKEN"
 
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
